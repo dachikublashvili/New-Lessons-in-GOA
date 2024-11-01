@@ -32,10 +32,20 @@ city = "London"
 print(city)
 
 # დავალება 5
-print(22+22) #sophiko
-print(44-2) #dato
-print(1+1) #deme
-print(10-1) #dachi
+Dachi = 9
+mother = 44
+father = 42
+
+# 9, 44, 42
+sum = Dachi + mother + father
+print(sum/3)
+
+# დავალება 6-7
+num1 = 10
+num2 = 7
+print(num1 * num1 + num2 * num2)
+
+
 
 # დავალება 6-7
 group = 51
